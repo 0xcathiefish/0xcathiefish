@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats-jade-eight-33.vercel.app/api/top-langs/?username=0xCathiefish&count_private=true)
+![Top Langs](https://github-readme-stats-jade-eight-33.vercel.app/api/top-langs/?username=0xCathiefish&count_private=true&exclude_repo=github-readme-stats,Uptime-Page,hyperliquid-python-sdk,bilidown,rsshub,shyft_API,mev-toolkit,pump-fun-bundler,solana-mmaker,solana-volume-bot-raydium,FreeWechatPush
+)
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xCathiefish)](https://github.com/ryo-ma/github-profile-trophy)
 
 
