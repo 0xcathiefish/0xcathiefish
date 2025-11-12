@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCathiefish)
-[![trophy](https://github-profile-trophy.vercel.app/?username=thc1006)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xCathiefish)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
