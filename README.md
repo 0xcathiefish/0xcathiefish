@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCathiefish)
 
 <!--
 **0xcathiefish/0xcathiefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
